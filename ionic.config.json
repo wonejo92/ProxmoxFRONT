@@ -1,0 +1,7 @@
+{
+  "name": "ProxmoxFRONT",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
